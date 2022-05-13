@@ -1,2 +1,3 @@
-# 2D-Game
-asdfg
+The aim of the project is for the main character to crash with objects and gain points. Animation, databinding and Intent are used. Each object has a score. The main character moves up and down. Triangle, circle and square objects move to the left. The game ends when the main character crashes the square. When you press the back button on the result page, you return to the main screen. The highest score is recorded. If the score of the last game is higher than the highest score, the score of the last game is recorded for the highest score. The highest score and the score of the last game are shown on the result page.
+
+<video src='https://user-images.githubusercontent.com/58865367/168253449-f522ccb3-62f0-474e-8cf1-674b68d14ebc.mp4' width=180/>
